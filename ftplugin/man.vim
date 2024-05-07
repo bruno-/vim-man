@@ -17,6 +17,7 @@ setlocal iskeyword+=\.,-
 setlocal nonumber
 setlocal norelativenumber
 setlocal foldcolumn=0
+setlocal signcolumn=no
 setlocal nofoldenable
 setlocal nolist
 
